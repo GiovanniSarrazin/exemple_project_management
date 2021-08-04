@@ -42,3 +42,13 @@ J'utilises les projets avec la méthode Kaban pour avoir un visuel (Pool To do, 
 Un projet définit l'objectif d'une version projet sans définir le temps.
 Je commence chaque projet avec l'objectif v1.0.
 J'allimente la colone Pool To do avec les Issues du sprints encours.
+
+___
+### Issues Label
+___
+Les tickets sont créer par le manager.
+Le projet doit etre découper en ticket de poids 5.
+Le ticket doit etre créer avec un but et il doit etre associer une version projet.
+Puis lors d'une réunion on attribu avec l'équipe un poids.
+Si l'équipe vote pour un poids superieurs à 5 il se peut que le manager est sous-estimé la tache et que celle-ci puisse encore etre découpé.
+Une fois le but, le poids et le projet définit il ne reste plus qu'a attendre le bon moment pour attribuer le ticket a un sprint.
