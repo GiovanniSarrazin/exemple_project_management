@@ -6,7 +6,7 @@ ___
 ___
 
 J'utilise un minum de label afin d'éviter les artifices.
-Un ticket a forcément un but (add, bug, crash, doc) et un poids (1, 2, 5, 8, 12).
+Les labels servent à définir le but (add, bug, crash, doc) et le poids (1, 2, 5, 8, 12).
 5 est le poids de référence d'une tache normal (ni trop simple ni trop complexe).
 Le poids d'une tache est définit par l'équipe lors d'une réunion organiser avec le manager
 
