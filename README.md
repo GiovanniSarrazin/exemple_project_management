@@ -4,16 +4,6 @@
 ___
 ### Issues Label
 ___
-- add   : 
-- bug   : 
-- crash : 
-- doc   :
-</br></br>
-- 1   :
-- 2   :
-- 5   :
-- 8   :
-- 12  :
 
 J'utilise un minum de label afin d'éviter les artifices.
 Un ticket a forcément un but (add, bug, crash, doc) et un poids (1, 2, 5, 8, 12).
@@ -38,6 +28,7 @@ L'équipe doit utliser le ressentit de chaque sprint pour ajuster et améliorer 
 ___
 ### Projects
 ___
+
 J'utilises les projets avec la méthode Kaban pour avoir un visuel (Pool To do, In progress, Done).
 Un projet définit l'objectif d'une version projet sans définir le temps.
 Je commence chaque projet avec l'objectif v1.0.
@@ -47,6 +38,7 @@ J'allimente la colone Pool To do avec les Issues du sprints encours.
 ___
 ### Issues Label
 ___
+
 Les tickets sont créer par le manager.
 Le projet doit etre découper en ticket de poids 5.
 Le ticket doit etre créer avec un but et il doit etre associer une version projet.
