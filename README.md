@@ -7,7 +7,7 @@ ___
 
 J'utilise un minum de label afin d'éviter les artifices.
 Les labels servent à définir le but (add, bug, crash, doc) et le poids (1, 2, 5, 8, 12).
-Le poids de référence d'une tache normal est de 5 si elle est ni trop simple ni trop complexe.
+Le poids de référence d'une tache est de 5 si elle est ni trop simple ni trop complexe.
 Le poids d'une tache est définit par l'équipe lors d'une réunion organiser avec le manager
 
 </br></br>
