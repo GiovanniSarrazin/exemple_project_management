@@ -40,7 +40,7 @@ ___
 ___
 
 Les tickets sont créer par le manager.
-Le projet doit etre découper en ticket de poids 5.
+L'objectif est de découper le projet en ticket de poids 5.
 Le ticket doit etre créer avec un but et il doit etre associer une version projet.
 Puis lors d'une réunion on attribu avec l'équipe un poids.
 Si l'équipe vote pour un poids superieurs à 5 il se peut que le manager est sous-estimé la tache et que celle-ci puisse encore etre découpé.
