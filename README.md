@@ -36,7 +36,7 @@ J'allimente la colone To do avec les Issues du sprints encours.
 
 </br></br>
 ___
-### Issues Label
+### Issues
 ___
 
 Les tickets sont créer par le manager.
