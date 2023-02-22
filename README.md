@@ -19,8 +19,8 @@ J'utilise les jalons pour définir le temps des sprints.
 Un sprint a donc un objectif en temps mais il a également un objectif de poids.
 Le poids d'un sprint se jauge en fonction de la taille et de l'efficatité de l'équipe.
 L'objectif pour le manager est de trouver le poids idéal pour l'équipe réalisable dans le temps défini par le sprint.
-Si toutes les issues du sprint sont terminé avant la fin du temps impartie, l'équipe part en week-end et se repose.
-Si à la fin du sprint cetraine issues sont non résolu, l'équipe part quand meme en week-end et se repose. Les issues integreront automatiquement le sprint suivant et le manager doit anticiper pour rétablir le poids du sprints.
+Si toutes les issues du sprint sont terminées avant la fin du temps impartie, l'équipe part en week-end et se repose.
+Si à la fin du sprint cetraines issues sont non résoluent, l'équipe part quand meme en week-end et se repose.
 Le manager doit utiliser le retour de chaque sprint pour ajuster et améliorer la plannification des sprints futurs.
 L'équipe doit utliser le ressentit de chaque sprint pour ajuster et améliorer l'estimation du poids des issues.
 
@@ -29,10 +29,10 @@ ___
 ### Projects
 ___
 
-J'utilises les projets avec la méthode Kaban pour avoir un visuel (Pool To do, In progress, Done).
+J'utilises les projets avec la méthode Kaban pour avoir un visuel (Todo, In Progress, Done, Closed).
 Un projet définit l'objectif d'une version projet sans définir le temps.
-Je commence chaque projet avec l'objectif v1.0.
-J'allimente la colone Pool To do avec les Issues du sprints encours.
+Je commence chaque projet avec l'objectif v1.0.0
+J'allimente la colone To do avec les Issues du sprints encours.
 
 </br></br>
 ___
